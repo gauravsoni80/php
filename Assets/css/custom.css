@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    -webkit-font-smoothing: antialiased;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+
+.box-container{
+    background-color: #002594;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.box-container .container-fluid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.wrapper{
+    width: 80%;
+    height: 100%;
+    background: #001a68;
+    min-height: 500px;
+    margin: auto;
+}

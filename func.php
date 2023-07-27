@@ -23,6 +23,7 @@
     $css = array(
         "icon" => "",
         "style" => "Assets/css/style.css",
+        "custom" => "Assets/css/custom.css",
         "bootstrap" => "Assets/css/bootstrap.min.css",
         "materialize" => "Assets/css/materialize.min.css"
     );
