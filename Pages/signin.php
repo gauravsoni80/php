@@ -10,5 +10,5 @@
 
 <body>
     <?php include("../Layout/nav.php");?>
-    <?php require("../Layout/main.php");?>
+    <?php require("../Structure/signin.php");?>
     <?php require("../Layout/footer.php");?>
